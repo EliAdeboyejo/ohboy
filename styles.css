@@ -1,0 +1,62 @@
+
+.lol{
+    background-color: orange;
+    width: 1000px;
+    height: 500px;
+    margin-left: 140px;
+    margin-top: 30px;
+    clip-path: polygon(95% 0, 100% 4%, 100% 88%, 100% 100%, 3% 100%, 0 94%, 0 0);
+}
+
+#non{
+    color: white;
+}
+
+.line{
+    display: flex;
+    justify-content: space-between;
+}
+
+#no{
+    margin-left: 50px;
+}
+
+input{
+    width: 400px;
+    height: 25px;
+    margin-left: 50px;
+    clip-path: polygon(92% 0, 100% 8%, 100% 88%, 100% 100%, 6% 100%, 0 92%, 0 0);
+    
+}
+
+#one{
+    clip-path: none;
+    border: none;
+}
+
+#tre{
+    height: 25px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.contain{
+    display: flex;
+}
+
+#ten{
+    height: 120px;
+}
+
+#ee{
+    background-color: red;
+    color: white;
+    clip-path: polygon(92% 0, 100% 8%, 100% 88%, 100% 100%, 6% 100%, 0 92%, 0 0);
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-left: 300px;
+    margin-top: 30px;
+}
